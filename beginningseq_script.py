@@ -1,3 +1,5 @@
+#copyright (c) Helena Goeddaeus, 2025
+
 import qi
 import keyboard
 #import time
